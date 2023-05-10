@@ -1,0 +1,9 @@
+.header {
+  text-align: center;
+  color: coral;
+  padding: 20px 0px;
+  margin-bottom: 10px;
+}
+.header h3 {
+  color: rgb(122, 119, 119);
+}
